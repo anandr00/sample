@@ -1,2 +1,2 @@
 # sample
-sample project
+sample project for new students
